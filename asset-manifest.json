@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-simple-frontend-pagination/static/css/main.abd64e84.css",
+    "main.js": "/react-simple-frontend-pagination/static/js/main.ba4b4c58.js",
+    "index.html": "/react-simple-frontend-pagination/index.html",
+    "main.abd64e84.css.map": "/react-simple-frontend-pagination/static/css/main.abd64e84.css.map",
+    "main.ba4b4c58.js.map": "/react-simple-frontend-pagination/static/js/main.ba4b4c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.ba4b4c58.js"
+  ]
+}
